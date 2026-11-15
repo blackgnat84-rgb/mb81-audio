@@ -1,6 +1,3 @@
-Here is the complete, unified `.sh` file. I have integrated the fixes for user detection, the `as_user` environment injection, the `fix_chime` Python logic, and the `verify` stage to ensure it handles SSH/non-GUI sessions gracefully.
-
-```bash
 #!/usr/bin/env bash
 # mb81-audio.sh — one-shot internal-speaker + audio installer for the
 # 12-inch MacBook (Early 2015, MacBook8,1, A1534) on Debian / Ubuntu / Linux Mint.
